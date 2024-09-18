@@ -32,3 +32,41 @@ Este será actualizado cada vez que se tengan los ítems de configuración neces
 
 ## Reglas de nombrado
 Se va a utilizar PascalCase como regla genérica de nombrado tanto en directorios como en ítems de configuración.
+
+### Trabajos Prácticos
+
+Se subirán en formato .docx
+
+* TP: Trabajo Práctico
+* N: Número de trabajo práctico
+* Tema: Tema del trabajo 
+* Versión: Orden del versionado evolutivo del mismo TP
+
+### Apuntes de clase
+
+Se subirán en formato .docx
+
+* A: Apunte
+* MMDD: Formato de fecha, mes primero y luego día, ambos con dos cifras
+* Tema: Tema del apunte
+* Integrante: Nombre del autor dueño del apunte 
+* Versión: Orden del versionado evolutivo del mismo apunte
+
+### Resúmenes
+
+Se subirán en formato .docx
+
+* R: Resumen
+* Tema: Tema del resumen
+* Integrante: Nombre del autor dueño del resumen 
+* Versión: Orden del versionado evolutivo del mismo resumen
+
+### Minuta
+
+Se subirán en formato .docx
+
+* M: Minuta
+* N: Número de minuta
+* MMDD: Formato de fecha, mes primero y luego día, ambos con dos cifras
+* Tema: Tema de la minuta
+* Versión: Orden del versionado evolutivo de la misma minuta
