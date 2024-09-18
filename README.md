@@ -12,6 +12,7 @@ Repositorio creado a fin de cumplimentar con el Trabajo Práctico N° 4 - SCM, d
 | Enunicados TPs      | Enunciados.pdf                                | https://github.com/marcodalfaro/ISW-TP4-SCM/tree/main/TrabajosPracticos/Enunciados                                     |
 | Trabajos Prácticos      | TP&lt;N&gt;-&lt;Tema&gt;-&lt;Versión&gt;.pdf                                | https://github.com/marcodalfaro/ISW-TP4-SCM/tree/main/TrabajosPracticos/TP[N]                                    |
 | Minutas                            | M&lt;N&gt;-&lt;MMDD&gt;-&lt;Tema&gt;-&lt;Versión&gt;.pdf                        | https://github.com/marcodalfaro/ISW-TP4-SCM/tree/main/Minutas                                                            |
+
 [1] Se mantienen los nombres de los archivos originales del Aula Virtual
 
 
