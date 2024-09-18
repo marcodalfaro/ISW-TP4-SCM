@@ -5,13 +5,14 @@ Repositorio creado a fin de cumplimentar con el Trabajo Práctico N° 4 - SCM, d
 | Listado de Ítems de Configuración    | Regla de Nombrado                                                                           | Ubicación                                                                                                                            |
 |--------------------------------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | Apuntes de clase                     | A-&lt;MMDD&gt;-&lt;Tema&gt;-&lt;Integrante&gt;-&lt;Versión&gt;.pdf                          | https://github.com/marcodalfaro/ISW-TP4-SCM/tree/main/Documentacion/Apuntes                                                           |
-| Bibliografía                         | Observación 1                                                                               | https://github.com/marcodalfaro/ISW-TP4-SCM/tree/main/Documentacion/Bibliografia                                               |                                          |
+| Bibliografía                         | *                                                                               | https://github.com/marcodalfaro/ISW-TP4-SCM/tree/main/Documentacion/Bibliografia                                               |                                          |
 | Resúmenes                            | R-&lt;Tema&gt;-&lt;Integrante&gt;-&lt;Versión&gt;.pdf                         | https://github.com/marcodalfaro/ISW-TP4-SCM/tree/main/Documentacion/Resumenes                                                            |
 | Trabajos Prácticos Conceptuales      | TPC&lt;N&gt;.pdf                                | https://github.com/marcodalfaro/ISW-TP4-SCM/tree/main/TrabajosPracticosConceptuales                                  |
 | Guía Ejercicios Resueltos      | Guía Ejercicios Resueltos.pdf                                | https://github.com/marcodalfaro/ISW-TP4-SCM/tree/main/TrabajosPracticos/GuiaEjerciciosResueltos                                     |
 | Enunicados TPs      | Enunciados.pdf                                | https://github.com/marcodalfaro/ISW-TP4-SCM/tree/main/TrabajosPracticos/Enunciados                                     |
 | Trabajos Prácticos      | TP&lt;N&gt;-&lt;Tema&gt;-&lt;Versión&gt;.pdf                                | https://github.com/marcodalfaro/ISW-TP4-SCM/tree/main/TrabajosPracticos/TP[N]                                    |
 | Minutas                            | M&lt;N&gt;-&lt;MMDD&gt;-&lt;Tema&gt;-&lt;Versión&gt;.pdf                        | https://github.com/marcodalfaro/ISW-TP4-SCM/tree/main/Minutas                                                            |
+* Se mantienen los nombres de los archivos originales del Aula Virtual
 
 
 | Sigla                                      | Significado                                                                                                                       |
