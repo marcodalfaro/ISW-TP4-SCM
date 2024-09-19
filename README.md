@@ -9,7 +9,7 @@ Repositorio creado a fin de cumplimentar con el Trabajo Práctico N° 4 - SCM, d
 | Resúmenes                            | R-&lt;Tema&gt;-&lt;Integrante&gt;-&lt;Versión&gt;.pdf                         | https://github.com/marcodalfaro/ISW-TP4-SCM/tree/main/Documentacion/Resumenes                                                            |
 | Trabajos Prácticos Conceptuales      | TPC&lt;N&gt;.pdf                                | https://github.com/marcodalfaro/ISW-TP4-SCM/tree/main/TrabajosPracticosConceptuales                                  |
 | Guía Ejercicios Resueltos      | GuiaEjerciciosResueltos.pdf                                | https://github.com/marcodalfaro/ISW-TP4-SCM/tree/main/TrabajosPracticos/GuiaEjerciciosResueltos                                     |
-| Enunicados TPs      | Enunciados.pdf                                | https://github.com/marcodalfaro/ISW-TP4-SCM/tree/main/TrabajosPracticos/Enunciados                                     |
+| Enunciados TPs      | Enunciados.pdf                                | https://github.com/marcodalfaro/ISW-TP4-SCM/tree/main/TrabajosPracticos/Enunciados                                     |
 | Trabajos Prácticos      | TP&lt;N&gt;-&lt;Tema&gt;-&lt;Versión&gt;.pdf                                | https://github.com/marcodalfaro/ISW-TP4-SCM/tree/main/TrabajosPracticos/TP[N]                                    |
 | Minutas                            | M&lt;N&gt;-&lt;MMDD&gt;-&lt;Tema&gt;-&lt;Versión&gt;.pdf                        | https://github.com/marcodalfaro/ISW-TP4-SCM/tree/main/Minutas                                                            |
 
@@ -20,7 +20,7 @@ Repositorio creado a fin de cumplimentar con el Trabajo Práctico N° 4 - SCM, d
 |--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 | &lt;MMDD&gt;                              | Fecha en formato mes en número de dos cifras y luego día en número de dos cifras                                                       |
 | &lt;Tema&gt;                               | Tema sobre lo que se trata el Ítem de Configuración en específico                                                                 |
-| &lt;Integrante&gt;                      | Nombre del integrate owner del documento                                                 |
+| &lt;Integrante&gt;                      | Nombre del integrante owner del documento                                                 |
 | &lt;Versión&gt;                                 | Número de versión del Ítem                                                    |
 | &lt;Tema&gt;                        | Tema del trabajo a desarrollar                                                                                        |
 | &lt;N&gt;                                  | Número de documento en cuestión                                                                              |
